@@ -14,7 +14,7 @@ It also allows to remove affiliate/tracking tags from URLs by the use of configu
 
 _Further details on the AMO listing page:_
 
-<https://addons.mozilla.org/addon/clean-links/>
+<https://addons.mozilla.org/en-GB/firefox/addon/clean-links-webext/> 
 
 
 _If you want to help testing by installing Clean Links straight from this repo try this extension:_
